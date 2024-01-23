@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MIBRTzbmhh1SPILWIdSAdsl0WlkBeMLoVyfaUtoEtxU=",
+  "Hash": "ehN7w+IlU6iUu/KERj1I7Q/iuhoIarSlOvoXMKK83js=",
   "Source": "Practice",
   "BasePath": "_content/Practice",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Practice\\wwwroot",
       "Source": "Practice",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\css\\bootstrap.css",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/css/bootstrap.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\css\\nivo-lightbox\\close.png",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\css\\nivo-lightbox\\close.png",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/css/nivo-lightbox/close.png",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\nivo-lightbox\\close.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\css\\nivo-lightbox\\close@2x.png",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\css\\nivo-lightbox\\close@2x.png",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/css/nivo-lightbox/close@2x.png",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\nivo-lightbox\\close@2x.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\css\\nivo-lightbox\\default.css",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\css\\nivo-lightbox\\default.css",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/css/nivo-lightbox/default.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\nivo-lightbox\\default.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\css\\nivo-lightbox\\loading.gif",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\css\\nivo-lightbox\\loading.gif",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/css/nivo-lightbox/loading.gif",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\nivo-lightbox\\loading.gif"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\css\\nivo-lightbox\\loading@2x.gif",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\css\\nivo-lightbox\\loading@2x.gif",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/css/nivo-lightbox/loading@2x.gif",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\nivo-lightbox\\loading@2x.gif"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\css\\nivo-lightbox\\next.png",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\css\\nivo-lightbox\\next.png",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/css/nivo-lightbox/next.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\nivo-lightbox\\next.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\css\\nivo-lightbox\\next@2x.png",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\css\\nivo-lightbox\\next@2x.png",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/css/nivo-lightbox/next@2x.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\nivo-lightbox\\next@2x.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\css\\nivo-lightbox\\nivo-lightbox.css",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\css\\nivo-lightbox\\nivo-lightbox.css",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/css/nivo-lightbox/nivo-lightbox.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\nivo-lightbox\\nivo-lightbox.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\css\\nivo-lightbox\\prev.png",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\css\\nivo-lightbox\\prev.png",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/css/nivo-lightbox/prev.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\nivo-lightbox\\prev.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\css\\nivo-lightbox\\prev@2x.png",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\css\\nivo-lightbox\\prev@2x.png",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/css/nivo-lightbox/prev@2x.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\nivo-lightbox\\prev@2x.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\css\\owl.carousel.css",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\css\\owl.carousel.css",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/css/owl.carousel.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\css\\owl.theme.css",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\css\\owl.theme.css",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/css/owl.theme.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\owl.theme.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\css\\style.css",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\css\\style.css",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/css/style.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\css\\font-awesome.css",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\css\\font-awesome.css",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/css/font-awesome.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\css\\font-awesome.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\css\\font-awesome.min.css",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\FontAwesome.otf",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\animated.less",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\animated.less",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/less/animated.less",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\less\\animated.less"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\bordered-pulled.less",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\bordered-pulled.less",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/less/bordered-pulled.less",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\less\\bordered-pulled.less"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\core.less",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\core.less",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/less/core.less",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\less\\core.less"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\fixed-width.less",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\fixed-width.less",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/less/fixed-width.less",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\less\\fixed-width.less"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\font-awesome.less",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\font-awesome.less",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/less/font-awesome.less",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\less\\font-awesome.less"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\icons.less",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\icons.less",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/less/icons.less",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\less\\icons.less"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\larger.less",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\larger.less",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/less/larger.less",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\less\\larger.less"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\list.less",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\list.less",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/less/list.less",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\less\\list.less"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\mixins.less",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\mixins.less",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/less/mixins.less",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\less\\mixins.less"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\path.less",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\path.less",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/less/path.less",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\less\\path.less"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\rotated-flipped.less",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\rotated-flipped.less",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/less/rotated-flipped.less",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\less\\rotated-flipped.less"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\stacked.less",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\stacked.less",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/less/stacked.less",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\less\\stacked.less"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\variables.less",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\less\\variables.less",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/less/variables.less",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\less\\variables.less"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_animated.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_animated.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/scss/_animated.scss",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\scss\\_animated.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_bordered-pulled.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_bordered-pulled.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/scss/_bordered-pulled.scss",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\scss\\_bordered-pulled.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_core.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_core.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/scss/_core.scss",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\scss\\_core.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_fixed-width.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_fixed-width.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/scss/_fixed-width.scss",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\scss\\_fixed-width.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_icons.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_icons.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/scss/_icons.scss",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\scss\\_icons.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_larger.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_larger.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/scss/_larger.scss",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\scss\\_larger.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_list.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_list.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/scss/_list.scss",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\scss\\_list.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_mixins.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_mixins.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/scss/_mixins.scss",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\scss\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_path.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_path.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/scss/_path.scss",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\scss\\_path.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_rotated-flipped.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_rotated-flipped.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/scss/_rotated-flipped.scss",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\scss\\_rotated-flipped.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_stacked.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_stacked.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/scss/_stacked.scss",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\scss\\_stacked.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_variables.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_variables.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/scss/_variables.scss",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\scss\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\font-awesome.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\font-awesome\\scss\\font-awesome.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/font-awesome/scss/font-awesome.scss",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\scss\\font-awesome.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.eot",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.eot",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/fonts/glyphicons-halflings-regular.eot",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.svg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.svg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/fonts/glyphicons-halflings-regular.svg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.ttf",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.ttf",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/fonts/glyphicons-halflings-regular.ttf",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.woff",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.woff",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/fonts/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.woff2",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.woff2",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/fonts/fonts/glyphicons-halflings-regular.woff2",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\1fcc3ae9-5dae-41bd-8c38-65e52519e579download (1).png",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\1fcc3ae9-5dae-41bd-8c38-65e52519e579download (1).png",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/1fcc3ae9-5dae-41bd-8c38-65e52519e579download (1).png",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\1fcc3ae9-5dae-41bd-8c38-65e52519e579download (1).png"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\5d3c7589-164b-4636-a166-ef519f998612download.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\5d3c7589-164b-4636-a166-ef519f998612download.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/5d3c7589-164b-4636-a166-ef519f998612download.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\5d3c7589-164b-4636-a166-ef519f998612download.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\a68c3a68-9466-4a6d-8710-3ae52058f798download (1).jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\a68c3a68-9466-4a6d-8710-3ae52058f798download (1).jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/a68c3a68-9466-4a6d-8710-3ae52058f798download (1).jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\a68c3a68-9466-4a6d-8710-3ae52058f798download (1).jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\about-1.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\about-1.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/about-1.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\about-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\about-2.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\about-2.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/about-2.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,44 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\about-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\ef3b48da-aabb-42e8-abba-0f9451c4b204download.png",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\chef-5.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
+      "BasePath": "_content/Practice",
+      "RelativePath": "assets/img/chef-5.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\chef-5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\e59f9cdd-a882-4861-a7bf-e140f5739357Screenshot 2024-01-18 180454.png",
+      "SourceId": "Practice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
+      "BasePath": "_content/Practice",
+      "RelativePath": "assets/img/e59f9cdd-a882-4861-a7bf-e140f5739357Screenshot 2024-01-18 180454.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\e59f9cdd-a882-4861-a7bf-e140f5739357Screenshot 2024-01-18 180454.png"
+    },
+    {
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\ef3b48da-aabb-42e8-abba-0f9451c4b204download.png",
+      "SourceId": "Practice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/ef3b48da-aabb-42e8-abba-0f9451c4b204download.png",
       "AssetKind": "All",
@@ -1037,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\ef3b48da-aabb-42e8-abba-0f9451c4b204download.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\intro-bg.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\intro-bg.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/intro-bg.jpg",
       "AssetKind": "All",
@@ -1054,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\intro-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\01-large.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\01-large.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/01-large.jpg",
       "AssetKind": "All",
@@ -1071,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\01-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\01-small.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\01-small.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/01-small.jpg",
       "AssetKind": "All",
@@ -1088,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\01-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\02-large.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\02-large.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/02-large.jpg",
       "AssetKind": "All",
@@ -1105,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\02-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\02-small.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\02-small.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/02-small.jpg",
       "AssetKind": "All",
@@ -1122,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\02-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\03-large.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\03-large.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/03-large.jpg",
       "AssetKind": "All",
@@ -1139,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\03-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\03-small.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\03-small.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/03-small.jpg",
       "AssetKind": "All",
@@ -1156,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\03-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\04-large.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\04-large.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/04-large.jpg",
       "AssetKind": "All",
@@ -1173,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\04-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\04-small.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\04-small.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/04-small.jpg",
       "AssetKind": "All",
@@ -1190,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\04-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\05-large.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\05-large.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/05-large.jpg",
       "AssetKind": "All",
@@ -1207,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\05-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\05-small.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\05-small.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/05-small.jpg",
       "AssetKind": "All",
@@ -1224,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\05-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\06-large.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\06-large.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/06-large.jpg",
       "AssetKind": "All",
@@ -1241,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\06-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\06-small.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\06-small.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/06-small.jpg",
       "AssetKind": "All",
@@ -1258,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\06-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\07-large.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\07-large.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/07-large.jpg",
       "AssetKind": "All",
@@ -1275,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\07-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\07-small.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\07-small.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/07-small.jpg",
       "AssetKind": "All",
@@ -1292,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\07-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\08-large.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\08-large.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/08-large.jpg",
       "AssetKind": "All",
@@ -1309,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\08-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\08-small.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\08-small.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/08-small.jpg",
       "AssetKind": "All",
@@ -1326,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\08-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\09-large.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\09-large.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/09-large.jpg",
       "AssetKind": "All",
@@ -1343,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\09-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\09-small.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\09-small.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/09-small.jpg",
       "AssetKind": "All",
@@ -1360,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\09-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\10-large.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\10-large.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/10-large.jpg",
       "AssetKind": "All",
@@ -1377,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\10-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\10-small.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\10-small.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/10-small.jpg",
       "AssetKind": "All",
@@ -1394,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\10-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\11-large.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\11-large.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/11-large.jpg",
       "AssetKind": "All",
@@ -1411,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\11-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\11-small.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\11-small.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/11-small.jpg",
       "AssetKind": "All",
@@ -1428,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\11-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\12-large.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\12-large.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/12-large.jpg",
       "AssetKind": "All",
@@ -1445,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\12-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\portfolio\\12-small.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\portfolio\\12-small.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/portfolio/12-small.jpg",
       "AssetKind": "All",
@@ -1462,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\12-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\services\\service-1.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\services\\service-1.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/services/service-1.jpg",
       "AssetKind": "All",
@@ -1479,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services\\service-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\services\\service-2.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\services\\service-2.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/services/service-2.jpg",
       "AssetKind": "All",
@@ -1496,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services\\service-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\services\\service-3.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\services\\service-3.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/services/service-3.jpg",
       "AssetKind": "All",
@@ -1513,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services\\service-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\services\\service-4.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\services\\service-4.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/services/service-4.jpg",
       "AssetKind": "All",
@@ -1530,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services\\service-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\img\\testimonials-bg.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\img\\testimonials-bg.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/img/testimonials-bg.jpg",
       "AssetKind": "All",
@@ -1547,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\testimonials-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\js\\bootstrap.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/js/bootstrap.js",
       "AssetKind": "All",
@@ -1564,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\js\\bootstrap.min.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1581,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\js\\contact_me.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\js\\contact_me.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/js/contact_me.js",
       "AssetKind": "All",
@@ -1598,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\contact_me.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\js\\jqBootstrapValidation.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\js\\jqBootstrapValidation.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/js/jqBootstrapValidation.js",
       "AssetKind": "All",
@@ -1615,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jqBootstrapValidation.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\js\\jquery.1.11.1.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\js\\jquery.1.11.1.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/js/jquery.1.11.1.js",
       "AssetKind": "All",
@@ -1632,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.1.11.1.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\js\\jquery.isotope.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\js\\jquery.isotope.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/js/jquery.isotope.js",
       "AssetKind": "All",
@@ -1649,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.isotope.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\js\\main.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\js\\main.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/js/main.js",
       "AssetKind": "All",
@@ -1666,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\js\\nivo-lightbox.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\js\\nivo-lightbox.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/js/nivo-lightbox.js",
       "AssetKind": "All",
@@ -1683,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\nivo-lightbox.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\js\\owl.carousel.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\js\\owl.carousel.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/js/owl.carousel.js",
       "AssetKind": "All",
@@ -1700,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\owl.carousel.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\assets\\js\\SmoothScroll.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\assets\\js\\SmoothScroll.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "assets/js/SmoothScroll.js",
       "AssetKind": "All",
@@ -1717,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\SmoothScroll.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\css\\maps\\style.css.map",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\css\\maps\\style.css.map",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "css/maps/style.css.map",
       "AssetKind": "All",
@@ -1734,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\css\\maps\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\css\\style.css",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -1751,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\.DS_Store",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\.DS_Store",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/.DS_Store",
       "AssetKind": "All",
@@ -1768,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\Roboto\\.DS_Store",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\Roboto\\.DS_Store",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/Roboto/.DS_Store",
       "AssetKind": "All",
@@ -1785,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Black.eot",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Black.eot",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/Roboto/Roboto-Black.eot",
       "AssetKind": "All",
@@ -1802,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\Roboto-Black.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Black.ttf",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Black.ttf",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/Roboto/Roboto-Black.ttf",
       "AssetKind": "All",
@@ -1819,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\Roboto-Black.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Black.woff",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Black.woff",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/Roboto/Roboto-Black.woff",
       "AssetKind": "All",
@@ -1836,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\Roboto-Black.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Black.woff2",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Black.woff2",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/Roboto/Roboto-Black.woff2",
       "AssetKind": "All",
@@ -1853,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\Roboto-Black.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Bold.eot",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Bold.eot",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/Roboto/Roboto-Bold.eot",
       "AssetKind": "All",
@@ -1870,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\Roboto-Bold.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Bold.ttf",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/Roboto/Roboto-Bold.ttf",
       "AssetKind": "All",
@@ -1887,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\Roboto-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Bold.woff",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Bold.woff",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/Roboto/Roboto-Bold.woff",
       "AssetKind": "All",
@@ -1904,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\Roboto-Bold.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Bold.woff2",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/Roboto/Roboto-Bold.woff2",
       "AssetKind": "All",
@@ -1921,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\Roboto-Bold.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Light.eot",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Light.eot",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/Roboto/Roboto-Light.eot",
       "AssetKind": "All",
@@ -1938,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\Roboto-Light.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Light.ttf",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Light.ttf",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/Roboto/Roboto-Light.ttf",
       "AssetKind": "All",
@@ -1955,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\Roboto-Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Light.woff",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Light.woff",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/Roboto/Roboto-Light.woff",
       "AssetKind": "All",
@@ -1972,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\Roboto-Light.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Light.woff2",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Light.woff2",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/Roboto/Roboto-Light.woff2",
       "AssetKind": "All",
@@ -1989,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\Roboto-Light.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Medium.eot",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Medium.eot",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/Roboto/Roboto-Medium.eot",
       "AssetKind": "All",
@@ -2006,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\Roboto-Medium.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Medium.ttf",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/Roboto/Roboto-Medium.ttf",
       "AssetKind": "All",
@@ -2023,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\Roboto-Medium.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Medium.woff",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Medium.woff",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/Roboto/Roboto-Medium.woff",
       "AssetKind": "All",
@@ -2040,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\Roboto-Medium.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Medium.woff2",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/Roboto/Roboto-Medium.woff2",
       "AssetKind": "All",
@@ -2057,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\Roboto-Medium.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Regular.eot",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Regular.eot",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/Roboto/Roboto-Regular.eot",
       "AssetKind": "All",
@@ -2074,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\Roboto-Regular.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Regular.ttf",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/Roboto/Roboto-Regular.ttf",
       "AssetKind": "All",
@@ -2091,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\Roboto-Regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Regular.woff",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Regular.woff",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/Roboto/Roboto-Regular.woff",
       "AssetKind": "All",
@@ -2108,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\Roboto-Regular.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\fonts\\Roboto\\Roboto-Regular.woff2",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "fonts/Roboto/Roboto-Regular.woff2",
       "AssetKind": "All",
@@ -2125,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\Roboto-Regular.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\.DS_Store",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\.DS_Store",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/.DS_Store",
       "AssetKind": "All",
@@ -2142,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\images\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\auth\\.DS_Store",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\auth\\.DS_Store",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/auth/.DS_Store",
       "AssetKind": "All",
@@ -2159,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\images\\auth\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\auth\\lockscreen-bg.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\auth\\lockscreen-bg.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/auth/lockscreen-bg.jpg",
       "AssetKind": "All",
@@ -2176,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\images\\auth\\lockscreen-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\auth\\login-bg.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\auth\\login-bg.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/auth/login-bg.jpg",
       "AssetKind": "All",
@@ -2193,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\images\\auth\\login-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\auth\\register-bg.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\auth\\register-bg.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/auth/register-bg.jpg",
       "AssetKind": "All",
@@ -2210,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\images\\auth\\register-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\.DS_Store",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\.DS_Store",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/.DS_Store",
       "AssetKind": "All",
@@ -2227,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face1.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face1.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face1.jpg",
       "AssetKind": "All",
@@ -2244,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face10.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face10.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face10.jpg",
       "AssetKind": "All",
@@ -2261,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face10.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face11.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face11.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face11.jpg",
       "AssetKind": "All",
@@ -2278,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face11.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face12.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face12.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face12.jpg",
       "AssetKind": "All",
@@ -2295,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face12.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face13.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face13.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face13.jpg",
       "AssetKind": "All",
@@ -2312,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face13.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face14.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face14.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face14.jpg",
       "AssetKind": "All",
@@ -2329,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face14.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face15.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face15.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face15.jpg",
       "AssetKind": "All",
@@ -2346,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face15.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face16.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face16.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face16.jpg",
       "AssetKind": "All",
@@ -2363,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face16.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face17.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face17.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face17.jpg",
       "AssetKind": "All",
@@ -2380,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face17.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face18.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face18.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face18.jpg",
       "AssetKind": "All",
@@ -2397,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face18.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face19.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face19.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face19.jpg",
       "AssetKind": "All",
@@ -2414,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face19.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face2.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face2.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face2.jpg",
       "AssetKind": "All",
@@ -2431,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face20.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face20.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face20.jpg",
       "AssetKind": "All",
@@ -2448,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face20.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face21.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face21.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face21.jpg",
       "AssetKind": "All",
@@ -2465,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face21.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face22.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face22.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face22.jpg",
       "AssetKind": "All",
@@ -2482,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face22.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face23.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face23.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face23.jpg",
       "AssetKind": "All",
@@ -2499,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face23.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face24.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face24.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face24.jpg",
       "AssetKind": "All",
@@ -2516,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face24.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face25.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face25.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face25.jpg",
       "AssetKind": "All",
@@ -2533,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face25.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face26.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face26.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face26.jpg",
       "AssetKind": "All",
@@ -2550,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face26.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face27.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face27.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face27.jpg",
       "AssetKind": "All",
@@ -2567,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face27.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face3.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face3.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face3.jpg",
       "AssetKind": "All",
@@ -2584,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face4.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face4.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face4.jpg",
       "AssetKind": "All",
@@ -2601,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face5.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face5.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face5.jpg",
       "AssetKind": "All",
@@ -2618,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face6.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face6.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face6.jpg",
       "AssetKind": "All",
@@ -2635,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face6.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face7.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face7.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face7.jpg",
       "AssetKind": "All",
@@ -2652,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face7.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face8.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face8.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face8.jpg",
       "AssetKind": "All",
@@ -2669,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face8.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\faces\\face9.jpg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\faces\\face9.jpg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/faces/face9.jpg",
       "AssetKind": "All",
@@ -2686,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\images\\faces\\face9.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\favicon.ico",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\favicon.ico",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/favicon.ico",
       "AssetKind": "All",
@@ -2703,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\images\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\favicon.png",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\favicon.png",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/favicon.png",
       "AssetKind": "All",
@@ -2720,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\images\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\logo.svg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\logo.svg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/logo.svg",
       "AssetKind": "All",
@@ -2737,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.svg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\images\\logo-mini.svg",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\images\\logo-mini.svg",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "images/logo-mini.svg",
       "AssetKind": "All",
@@ -2754,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo-mini.svg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\js\\.DS_Store",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\js\\.DS_Store",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "js/.DS_Store",
       "AssetKind": "All",
@@ -2771,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\js\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\js\\chart.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\js\\chart.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "js/chart.js",
       "AssetKind": "All",
@@ -2788,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\js\\chart.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\js\\Chart.min.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\js\\Chart.min.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "js/Chart.min.js",
       "AssetKind": "All",
@@ -2805,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\js\\dashboard.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\js\\dashboard.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "js/dashboard.js",
       "AssetKind": "All",
@@ -2822,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dashboard.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\js\\data-table.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\js\\data-table.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "js/data-table.js",
       "AssetKind": "All",
@@ -2839,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\js\\data-table.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\js\\dataTables.bootstrap4.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\js\\dataTables.bootstrap4.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "js/dataTables.bootstrap4.js",
       "AssetKind": "All",
@@ -2856,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dataTables.bootstrap4.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\js\\documentation.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\js\\documentation.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "js/documentation.js",
       "AssetKind": "All",
@@ -2873,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\js\\documentation.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\js\\file-upload.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\js\\file-upload.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "js/file-upload.js",
       "AssetKind": "All",
@@ -2890,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\js\\file-upload.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\js\\hoverable-collapse.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\js\\hoverable-collapse.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "js/hoverable-collapse.js",
       "AssetKind": "All",
@@ -2907,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\js\\hoverable-collapse.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\js\\jquery.cookie.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\js\\jquery.cookie.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "js/jquery.cookie.js",
       "AssetKind": "All",
@@ -2924,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.cookie.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\js\\jquery.dataTables.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\js\\jquery.dataTables.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "js/jquery.dataTables.js",
       "AssetKind": "All",
@@ -2941,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\js\\off-canvas.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\js\\off-canvas.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "js/off-canvas.js",
       "AssetKind": "All",
@@ -2958,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\js\\off-canvas.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\js\\tabs.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\js\\tabs.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "js/tabs.js",
       "AssetKind": "All",
@@ -2975,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\js\\tabs.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\js\\template.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\js\\template.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "js/template.js",
       "AssetKind": "All",
@@ -2992,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\js\\template.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\.DS_Store",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\.DS_Store",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/.DS_Store",
       "AssetKind": "All",
@@ -3009,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\_background.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\_background.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/_background.scss",
       "AssetKind": "All",
@@ -3026,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\_background.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\_demo.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\_demo.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/_demo.scss",
       "AssetKind": "All",
@@ -3043,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\_demo.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\_fonts.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\_fonts.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/_fonts.scss",
       "AssetKind": "All",
@@ -3060,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\_fonts.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\_footer.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\_footer.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/_footer.scss",
       "AssetKind": "All",
@@ -3077,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\_functions.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\_functions.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/_functions.scss",
       "AssetKind": "All",
@@ -3094,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\_functions.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\_layouts.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\_layouts.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/_layouts.scss",
       "AssetKind": "All",
@@ -3111,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\_layouts.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\_misc.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\_misc.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/_misc.scss",
       "AssetKind": "All",
@@ -3128,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\_misc.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\_navbar.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\_navbar.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/_navbar.scss",
       "AssetKind": "All",
@@ -3145,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\_reset.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\_reset.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/_reset.scss",
       "AssetKind": "All",
@@ -3162,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\_reset.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\_sidebar.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\_sidebar.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/_sidebar.scss",
       "AssetKind": "All",
@@ -3179,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\_sidebar.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\_typography.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\_typography.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/_typography.scss",
       "AssetKind": "All",
@@ -3196,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\_typography.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\_utilities.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\_utilities.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/_utilities.scss",
       "AssetKind": "All",
@@ -3213,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\_variables.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\_variables.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/_variables.scss",
       "AssetKind": "All",
@@ -3230,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\_vertical-wrapper.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\_vertical-wrapper.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/_vertical-wrapper.scss",
       "AssetKind": "All",
@@ -3247,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\_vertical-wrapper.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\components\\.DS_Store",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\components\\.DS_Store",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/components/.DS_Store",
       "AssetKind": "All",
@@ -3264,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\components\\_badges.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\components\\_badges.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/components/_badges.scss",
       "AssetKind": "All",
@@ -3281,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_badges.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\components\\_bootstrap-progress.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\components\\_bootstrap-progress.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/components/_bootstrap-progress.scss",
       "AssetKind": "All",
@@ -3298,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_bootstrap-progress.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\components\\_buttons.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\components\\_buttons.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/components/_buttons.scss",
       "AssetKind": "All",
@@ -3315,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\components\\_cards.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\components\\_cards.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/components/_cards.scss",
       "AssetKind": "All",
@@ -3332,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\components\\_checkbox-radio.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\components\\_checkbox-radio.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/components/_checkbox-radio.scss",
       "AssetKind": "All",
@@ -3349,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_checkbox-radio.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\components\\_dropdown.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\components\\_dropdown.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/components/_dropdown.scss",
       "AssetKind": "All",
@@ -3366,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\components\\_forms.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\components\\_forms.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/components/_forms.scss",
       "AssetKind": "All",
@@ -3383,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\components\\_icons.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\components\\_icons.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/components/_icons.scss",
       "AssetKind": "All",
@@ -3400,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_icons.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\components\\_lists.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\components\\_lists.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/components/_lists.scss",
       "AssetKind": "All",
@@ -3417,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_lists.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\components\\_tables.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\components\\_tables.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/components/_tables.scss",
       "AssetKind": "All",
@@ -3434,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\components\\plugin-overrides\\_data-tables.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/components/plugin-overrides/_data-tables.scss",
       "AssetKind": "All",
@@ -3451,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\plugin-overrides\\_data-tables.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\landing-screens\\_auth.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\landing-screens\\_auth.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/landing-screens/_auth.scss",
       "AssetKind": "All",
@@ -3468,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\landing-screens\\_auth.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\mixins\\.DS_Store",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\mixins\\.DS_Store",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/mixins/.DS_Store",
       "AssetKind": "All",
@@ -3485,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\mixins\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\mixins\\_animation.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\mixins\\_animation.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/mixins/_animation.scss",
       "AssetKind": "All",
@@ -3502,10 +3536,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\mixins\\_animation.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\mixins\\_badges.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\mixins\\_badges.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/mixins/_badges.scss",
       "AssetKind": "All",
@@ -3519,10 +3553,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\mixins\\_badges.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\mixins\\_blockqoute.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\mixins\\_blockqoute.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/mixins/_blockqoute.scss",
       "AssetKind": "All",
@@ -3536,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\mixins\\_blockqoute.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\mixins\\_buttons.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\mixins\\_buttons.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -3553,10 +3587,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\mixins\\_cards.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\mixins\\_cards.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/mixins/_cards.scss",
       "AssetKind": "All",
@@ -3570,10 +3604,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\mixins\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\mixins\\_misc.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\mixins\\_misc.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/mixins/_misc.scss",
       "AssetKind": "All",
@@ -3587,10 +3621,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\mixins\\_misc.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\scss\\style.scss",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\scss\\style.scss",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "scss/style.scss",
       "AssetKind": "All",
@@ -3604,10 +3638,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\style.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\vendors\\.DS_Store",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\vendors\\.DS_Store",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "vendors/.DS_Store",
       "AssetKind": "All",
@@ -3621,10 +3655,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\vendors\\base\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\vendors\\base\\bootstrap.min.js.map",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "vendors/base/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3638,10 +3672,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\base\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\vendors\\base\\vendor.bundle.base.css",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\vendors\\base\\vendor.bundle.base.css",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "vendors/base/vendor.bundle.base.css",
       "AssetKind": "All",
@@ -3655,10 +3689,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\base\\vendor.bundle.base.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\vendors\\base\\vendor.bundle.base.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\vendors\\base\\vendor.bundle.base.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "vendors/base/vendor.bundle.base.js",
       "AssetKind": "All",
@@ -3672,10 +3706,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\base\\vendor.bundle.base.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\vendors\\chart.js\\Chart.min.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\vendors\\chart.js\\Chart.min.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "vendors/chart.js/Chart.min.js",
       "AssetKind": "All",
@@ -3689,10 +3723,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\chart.js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\vendors\\datatables.net\\jquery.dataTables.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\vendors\\datatables.net\\jquery.dataTables.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "vendors/datatables.net/jquery.dataTables.js",
       "AssetKind": "All",
@@ -3706,10 +3740,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\datatables.net\\jquery.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "vendors/datatables.net-bs4/dataTables.bootstrap4.css",
       "AssetKind": "All",
@@ -3723,10 +3757,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "vendors/datatables.net-bs4/dataTables.bootstrap4.js",
       "AssetKind": "All",
@@ -3740,10 +3774,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\vendors\\mdi\\css\\materialdesignicons.min.css",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "vendors/mdi/css/materialdesignicons.min.css",
       "AssetKind": "All",
@@ -3757,10 +3791,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\mdi\\css\\materialdesignicons.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "vendors/mdi/css/materialdesignicons.min.css.map",
       "AssetKind": "All",
@@ -3774,10 +3808,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "vendors/mdi/fonts/materialdesignicons-webfont.eot",
       "AssetKind": "All",
@@ -3791,10 +3825,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "vendors/mdi/fonts/materialdesignicons-webfont.ttf",
       "AssetKind": "All",
@@ -3808,10 +3842,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "vendors/mdi/fonts/materialdesignicons-webfont.woff",
       "AssetKind": "All",
@@ -3825,10 +3859,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "Identity": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
       "SourceId": "Practice",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.03\\Desktop\\EXAM\\Practice\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asimanjg\\Desktop\\Landscaper\\Practice\\wwwroot\\",
       "BasePath": "_content/Practice",
       "RelativePath": "vendors/mdi/fonts/materialdesignicons-webfont.woff2",
       "AssetKind": "All",

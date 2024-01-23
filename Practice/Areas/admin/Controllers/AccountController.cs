@@ -5,6 +5,7 @@ using Practice.ViewModels.AccountVMs;
 
 namespace Practice.Areas.admin.Controllers
 {
+    [Area("Admin")]
     public class AccountController : Controller
     {
         private readonly UserManager<AppUser> _userManager;
@@ -18,7 +19,7 @@ namespace Practice.Areas.admin.Controllers
             _roleManager = roleManager;
         }
 
-        public IActionResult Index()
+        public IActionResult Register()
         {
             return View();
         }
@@ -46,7 +47,7 @@ namespace Practice.Areas.admin.Controllers
                 return View(vm);
             }
             await _signInManager.SignInAsync(user, isPersistent: false);
-            return RedirectToAction("Index", "Home");
+            return RedirectToAction("Index", "Home",new { Area=""});
         }
         public IActionResult Login()
         {
